@@ -1,0 +1,40 @@
+{
+  "users": {
+    "usr_demo_001": {
+      "userId": "usr_demo_001",
+      "displayName": "Alex Rivera",
+      "leaderboardOptIn": true,
+      "totalXp": 0,
+      "currentStreak": 0,
+      "longestStreak": 0,
+      "lastCompletedDate": null,
+      "activityCalendar": {},
+      "completedChallenges": [],
+      "rewardedAttemptIds": [],
+      "xpHistory": [],
+      "unlockedBadges": {},
+      "bestScore": 0,
+      "improvedPersonalBestCount": 0,
+      "arcadeAttempts": [],
+      "arcadeUnlockedLevels": {
+        "code_hunter": [
+          "Beginner"
+        ],
+        "brain_battle": [
+          "Beginner"
+        ],
+        "memory_match": [
+          "Beginner"
+        ],
+        "logic_detective": [
+          "Beginner"
+        ],
+        "interview_simulator": [
+          "Beginner"
+        ]
+      },
+      "arcadePersonalBests": {},
+      "arcadeBadges": {}
+    }
+  }
+}
